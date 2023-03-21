@@ -1,1 +1,2 @@
-# Foodbestow
+# foodbestow
+Food Donation Platform
